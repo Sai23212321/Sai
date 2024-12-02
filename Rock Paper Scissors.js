@@ -73,9 +73,9 @@ let  score = JSON.parse(localStorage.getItem('score'))
       You 
           <img src="images/${playerMove}-emoji.png"
           class="move-button1"/>
+          Computer choose 
           <img src="images/${computedMove}-emoji.png"
-          class="move-button1"/>
-          Computer `;
+          class="move-button1"/>`;
 
      }
 
